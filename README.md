@@ -2,6 +2,7 @@
 
 ## Integrantes del equipo
 - Carballo Caballero Jesús Alberto
+- Flores Mendoza Juan Antonio
 - Gutierrez Arce Andrey Julian
 - Ignacio Sánchez Zulidany
 
